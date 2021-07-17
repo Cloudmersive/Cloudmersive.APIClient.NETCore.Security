@@ -2,10 +2,10 @@
 
 The security APIs help you detect and block security threats.
 
-This C# SDK is for the [Cloudmersive Virus Scan API](https://www.cloudmersive.com/virus-api):
+This C# SDK is for the [Cloudmersive Security API](https://www.cloudmersive.com/security-api):
 
 - API version: v1
-- SDK version: 2.0.1
+- SDK version: 2.0.2
 - Build package: io.swagger.codegen.languages.CSharpClientCodegen
 
 <a name="frameworks-supported"></a>
