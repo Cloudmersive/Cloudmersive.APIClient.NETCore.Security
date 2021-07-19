@@ -2,10 +2,10 @@
 
 The security APIs help you detect and block security threats.
 
-This C# SDK is for the [Cloudmersive Security API](https://www.cloudmersive.com/security-api):
+This C# SDK is for the [Cloudmersive Security API](https://www.cloudmersive.com/security-threat-detection-api):
 
 - API version: v1
-- SDK version: 2.0.2
+- SDK version: 2.0.3
 - Build package: io.swagger.codegen.languages.CSharpClientCodegen
 
 <a name="frameworks-supported"></a>
